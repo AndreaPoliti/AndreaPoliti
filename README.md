@@ -77,10 +77,10 @@ Here are a few projects worth calling out:
 
 ### 🤝 Let’s Connect  
 I’d love to connect, collaborate or share ideas.  
-[![aPolite Dev](https://img.shields.io/badge/Blog-YourBlogName-blue?style=for-the-badge&logo=medium&logoColor=white)](https://apolite.dev/)
-[![AndreaPolitiDev](https://img.shields.io/badge/LinkedIn-Andrea-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreapolitidev/)
-[![aPolite_Dev](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aPolite_Dev)
-[![aPolite_Dev](https://img.shields.io/badge/Twitch-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.twitch.tv/aPolite_Dev)
+[![Blog](https://img.shields.io/badge/Blog-aPolite_Dev-blue?style=for-the-badge&logo=medium&logoColor=white)](https://apolite.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AndreaPolitiDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreapolitidev/)
+[![YouTube](https://img.shields.io/badge/YouTube-aPolite__Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aPolite_Dev)
+[![Twitch](https://img.shields.io/badge/Twitch-aPolite__Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.twitch.tv/aPolite_Dev)
 
 Made with ❤️ and a lot of code  
 *“Learning never goes out of style.”*
