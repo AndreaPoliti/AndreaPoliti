@@ -13,11 +13,11 @@ Building web platforms • Sharing my dev journey • Writing about code
 ### 🚀 About Me  
 I’m a passionate full-stack software engineer who loves crafting scalable applications, exploring new technologies, and creating content to help others learn.  
 Here’s a snapshot of what I’m up to:  
-- Developing modern frontend applications with [Angular](https://angular.io), [React](https://reactjs.org) and other cutting-edge tools.  
-- Building backend systems using [.NET Core / C#](https://docs.microsoft.com/dotnet) and [Java / Spring Boot](https://spring.io/projects/spring-boot).  
+- Developing modern frontend applications with Angular, React and other cutting-edge tools.  
+- Building backend systems using .NET Core / C# and Java Spring Boot.  
 - Working with databases like PostgreSQL, MSSQL and MySQL.  
 - Leveraging DevOps practices: I work with Kubernetes, Azure DevOps, CI/CD pipelines, cloud infrastructures.  
-- Creating technical content—blog posts, videos, tutorials—to share what I learn with the dev community.
+- Creating technical content to share what I learn with the dev community.
 
 ---
 
@@ -25,9 +25,9 @@ Here’s a snapshot of what I’m up to:
 Here are some of the key languages, frameworks and tools I’ve worked with:
 
 **Frontend:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -57,7 +57,7 @@ Here are some of the key languages, frameworks and tools I’ve worked with:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
-
+<!--
 ### 🏆 Projects Highlights  
 Here are a few projects worth calling out:  
 - **Project A** – Brief description of what it does + link.  
@@ -66,31 +66,24 @@ Here are a few projects worth calling out:
 
 *(You can replace these with your own pinned repos or add status/links as you wish.)*
 
----
+--- 
+-->
 
 ### 📊 GitHub Stats  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)  
-*(These cards are powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to dynamically update your contributions, languages, etc.)* :contentReference[oaicite:0]{index=0}
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaPoliti&show_icons=true&theme=radical)](https://github.com/AndreaPoliti)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaPoliti&layout=compact&theme=radical)](https://github.com/AndreaPoliti)  
 
 ---
 
 ### 🤝 Let’s Connect  
 I’d love to connect, collaborate or share ideas.  
-[![Your Blog](https://img.shields.io/badge/Blog-YourBlogName-blue?style=for-the-badge&logo=medium&logoColor=white)](YOUR_BLOG_LINK)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)  
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)  
-[![Mail](https://img.shields.io/badge/Email-me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![aPolite Dev](https://img.shields.io/badge/Blog-YourBlogName-blue?style=for-the-badge&logo=medium&logoColor=white)](https://apolite.dev/)
+[![AndreaPolitiDev](https://img.shields.io/badge/LinkedIn-Andrea-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreapolitidev/)
+[![aPolite_Dev](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aPolite_Dev)
+[![aPolite_Dev](https://img.shields.io/badge/Twitch-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.twitch.tv/aPolite_Dev)
 
----
-
-### 🎨 Footer  
 Made with ❤️ and a lot of code  
 *“Learning never goes out of style.”*
-
----
-
-
 
 <!--
 **AndreaPoliti/AndreaPoliti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
